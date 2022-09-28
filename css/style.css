@@ -1,0 +1,32 @@
+
+
+
+.jumbotron , .skills , .contact {
+  background: #2cccc3;
+}
+
+section {
+  padding-top: 6rem;
+}
+
+footer {
+  background: #000;
+}
+.logofoto {
+  width: 50px;
+  margin-bottom:10px;
+}
+.sosmed {
+  font-size: 50px;
+  margin: 0 5px;
+}
+.about a img {
+  width: 50px;
+}
+
+.about a {
+  text-decoration: none;
+}
+.projekimg img {
+  width: 30px;
+}
